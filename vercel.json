@@ -1,8 +1,6 @@
 {
-  "builds": {
-    "env": {
-      "VITE_ESLINT_DISABLED": "true"
-    }
+  "env": {
+    "VITE_ESLINT_DISABLED": "true"
   },
   "rewrites": [
     {
